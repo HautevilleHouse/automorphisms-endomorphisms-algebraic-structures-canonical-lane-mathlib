@@ -1,0 +1,2 @@
+import AutomorphismsEndomorphismsAlgebraicStructuresCanonicalLaneLean.GateLemmas
+import AutomorphismsEndomorphismsAlgebraicStructuresCanonicalLaneLean.FinalTheorem
